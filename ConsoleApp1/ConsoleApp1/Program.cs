@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.Write("This is my laba 3");
             int x = 9;
-            int y = x + 5;
+            int y = x + 1;
 
         }
     }
