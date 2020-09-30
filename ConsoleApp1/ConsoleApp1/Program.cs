@@ -11,6 +11,7 @@ namespace ConsoleApp1
             int x = 2;
             int y = x + 5;
             int l = y + 4;
+            int k = l - 2;
         }
     }
 }
