@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Console.Write("This is my laba 3");
             int x = 2;
             int y = x + 5;
-
+            int l = y + 4;
         }
     }
 }
